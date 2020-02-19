@@ -1,11 +1,11 @@
-//UPDATE TO WIFI CREDS
+//UPDATE TO WIFI  & MQTT CREDS
 const char WIFI_SSID[] = "";
 const char WIFI_PASSWORD[] = "";
 
 
-const char MQTT_BROKER[] = "itpdtd.com";
+const char MQTT_BROKER[] = """;
 const int MQTT_PORT = 8883;
-const char MQTT_USER[] = "jake";
-const char MQTT_PASSWORD[] = "unsung-expense-toxin";
+const char MQTT_USER[] = "";
+const char MQTT_PASSWORD[] = "";
 
-const String DEVICE_ID = "device_19";
+const String DEVICE_ID = "";
