@@ -1,10 +1,6 @@
-//home creds
-//const char WIFI_SSID[] = "CastleDeSherwood";
-//const char WIFI_PASSWORD[] = "serinpaul";
-
-//school creds
-const char WIFI_SSID[] = "sandbox370";
-const char WIFI_PASSWORD[] = "+s0a+s03!2gether?";
+//UPDATE TO WIFI CREDS
+const char WIFI_SSID[] = "";
+const char WIFI_PASSWORD[] = "";
 
 
 const char MQTT_BROKER[] = "itpdtd.com";
